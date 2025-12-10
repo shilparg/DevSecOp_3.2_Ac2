@@ -2,4 +2,6 @@
 
 DevSecOp_3.2 Activity 2
 DevSecOp_3.2 Activity 3
+DevSecOp_3.2 Activity 4
+DevSecOp_3.2 Activity 5
 DevSecOp_3.2 Activity 8
